@@ -103,7 +103,7 @@ Please cite our paper:
 
 Wu, F., Langer, P., Shim, J., Fleisch, E. and Barata, F., 2024. Comparative efficacy of commercial wearables for circadian rhythm home monitoring from activity, heart rate, and core body temperature. arXiv preprint arXiv:2404.03408.
 
-## Author
+## Developer
 
 Fan Wu, ETH Zurich, 2024
 
