@@ -1,0 +1,74 @@
+{
+
+    "input_root": "../../sample_data",
+    "output_root": "../../sample_data/output",
+
+    "_comment_input": "/Users/fanwufan/Documents/PhD/Research/CROCO/StudyData",
+    "_comment_output": "/Users/fanwufan/Documents/PhD/Research/CROCO/Results",
+
+    "raw_data_folder": "raw_data",
+    "study_period_file": "times.csv",
+    "raw_questionnaire_folder": "questionnaire",
+
+    "raw_core_file": "Core/CBT.csv", 
+    "watch_acc_path": "Samsung/Smartwatch/AccelerometerData",
+    "hr_folder_path": "Samsung/Smartwatch/HeartRateData",
+    "battery_folder_path": "Samsung/Smartwatch/BatteryData", 
+    "Acti_path": "Actigraph",
+
+    "baseline_file": "Baseline.csv",
+
+    "wear_time_folder": "Time",
+    "sleep_time_file": "sleep_times.csv",
+    "Acti_no_wear_time": "actigraph_non_wear_times.csv",
+    "watch_acc_times_file": "watch_acc_times.csv",
+    "hr_times_file": "hr_times.csv", 
+    "battery_times_file": "battery_miss.csv",
+
+    "sensor_folder": "Sensor",
+    "fig_folder_path": "Figure",
+    "WatchAC_file_uncleand": "WatchAC.csv.gz",
+    "ActiAC_file": "ActiAC.csv.gz",
+    "AC_file": "ACs.csv.gz",
+    "HR_file": "HR.csv.gz",
+    "HRV_file": "HRV.csv",
+    "CBT_file": "CBT.csv",
+    "AC_compare_file": "AC_comparison.csv",
+
+    "stats_folder": "Stats",
+    "Acti_miss_file": "ActiAC_miss.csv",
+    "Watch_miss_file": "WatchAC_miss.csv",
+    "CBT_miss_file": "Core_miss.csv",
+    "Overall_miss_file": "Miss.csv",
+
+    "CR_folder": "CR",
+    "CR_model_folder": "Models",
+    "CR_model_file": "CR_model.csv",
+    "CR_ID_comparsion_file": "CR_ID_comparsion.csv",
+    "CR_non_para_file": "CR_non_parametric.csv",
+    "CR_comparsion_file": "CR_comparsion.csv",
+    "CR_MEQ_corr": "CR_MEQ_corr.csv",
+    "Pred_res_file": "MEQ_pred_results.csv",
+    "Pred_coe_file": "MEQ_pred_coef.csv",
+    "Pred_res_file_ag": "MEQ_pred_results_AG.csv",
+    "Pred_coe_file_ag": "MEQ_pred_coef_AG.csv",
+    "Group_comparison_file": "MEQ_group_comparison.csv",
+
+    "Q_score_folder": "Questionnaire",
+    "baseline_output": "baseline.csv",
+    "MEQ_score_file": "MEQ_score.csv",
+    "SF_score_file": "SF_score.csv",
+    "PSQI_score_file": "PSQI_score.csv",
+
+    "str_time": "time",
+    "str_ID": "ID",
+    "str_Acti": "ActiAC",
+    "str_Watch" : "WatchAC",
+    "str_CBT": "CBT",
+    "str_SkinT" : "SkinT",
+    "str_HR": "HR",
+    "str_HRV1": "MeanRR",
+    "str_HRV2": "SDNN",
+    "str_HRV3": "RMSSD",
+    "str_HRV4": "PNN50"
+}

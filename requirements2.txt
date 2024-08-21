@@ -1,0 +1,4 @@
+CosinorPy==2.1
+pandas==1.3.5
+matplotlib==3.5.1 
+adjusttext=0.8
