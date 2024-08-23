@@ -56,7 +56,7 @@ For example, python AC_comparison.py. Make sure you have all required input file
 
 ## Pipeline
 
-<img src="https://github.com/user-attachments/assets/fd6a6bc5-9fa9-4f8b-b194-89562e52e2c4" alt="pipe" width="800"/>
+<img src="https://github.com/user-attachments/assets/3cd077ce-b28a-4193-be44-ea5a57617824" alt="pipe" width="800"/>
 <br>
 
 ## Data
@@ -96,12 +96,6 @@ output
 times.csv (start point and end point of each participant)
 
 ```
-
-## Citation
-
-Please cite our paper: 
-
-Wu, F., Langer, P., Shim, J., Fleisch, E. and Barata, F., 2024. Comparative efficacy of commercial wearables for circadian rhythm home monitoring from activity, heart rate, and core body temperature. arXiv preprint arXiv:2404.03408.
 
 ## Developer
 
