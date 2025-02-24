@@ -59,9 +59,18 @@ For example, python AC_comparison.py. Make sure you have all required input file
 <img src="https://github.com/user-attachments/assets/3cd077ce-b28a-4193-be44-ea5a57617824" alt="pipe" width="800"/>
 <br>
 
+## Developer
+
+Fan Wu, ETH Zurich, 2024
+
+## Citation
+Please cite our paper:
+
+Wu, F., Langer, P., Shim, J., Fleisch, E. and Barata, F., 2024. Comparative efficacy of commercial wearables for circadian rhythm home monitoring from activity, heart rate, and core body temperature. IEEE Journal of Biomedical and Health Informatics.
+
 ## Data
 
-🔥 Please reach out to the author to sign the necessary data consent form in order to obtain the data. Once you have the data, place the data folder at the same level as the 'script' folder.
+🔥 Please reach out to the corresponding author to sign the necessary data consent form in order to obtain the data. Once you have the data, place the data folder at the same level as the 'script' folder.
 
 Here is the structure of the data.
 
@@ -97,9 +106,7 @@ times.csv (start point and end point of each participant)
 
 ```
 
-## Developer
 
-Fan Wu, ETH Zurich, 2024
 
 <img src="https://github.com/ADAMMA-CDHI-ETH-Zurich/CROCOanalysis/assets/44665480/e985c7d8-215c-4444-b8c2-f2b97c615c28" alt="eth" width="200"/>
 
